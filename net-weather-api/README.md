@@ -22,7 +22,7 @@ This repository was created as a fun weekend project to interact with the Open W
 
 ### Built With
 
-* [![Next][Next.js]][dotnet-shield]
+* [![.NET][dotnet-shield]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
